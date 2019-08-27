@@ -1,5 +1,6 @@
-This work is done as a project on computer vision course in 2019.
-Supervised by prof. Andrea Cavallaro.
+This work is done as a project on computer vision course in 2019.\\
+Supervised by prof. [Andrea Cavallaro](http://www.eecs.qmul.ac.uk/~andrea/).
+Written by [Eungbean Lee](eungbean.github.io)
 
 MIT License
 
