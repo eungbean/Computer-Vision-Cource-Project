@@ -1,8 +1,0 @@
-scipy
-re
-numpy
-sk-video
-pydub
-ffmpeg
-scikit-video
-moviepy

@@ -1,9 +1,0 @@
-numpy
-matplotlib
-PIL
-plotly
-plotly_express
-scikit-video
-scikitlearn
-imageio-ffmpeg
-imageio
